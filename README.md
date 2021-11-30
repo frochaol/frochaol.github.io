@@ -4,7 +4,7 @@
 const fernando = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Java],
-  tools: [Angular, .NetCore, .Net],
+  tools: [Angular, .NetCore, .Net, SqlServer, PostgreSql, Oracle],
   architecture: ["domain driven design", "clean architecture", "design system pattern"]
 }
 ```
