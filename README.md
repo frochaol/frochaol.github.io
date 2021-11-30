@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```javascript
+const fernando = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C#, Java],
+  tools: [Angular, .NetCore, .Net],
+  architecture: ["domain driven design", "clean architecture", "design system pattern"]
+}
+```
+
+[![frochaol's GitHub stats](https://github-readme-stats.vercel.app/api?username=frochaol)](https://github.com/frochaol/github-readme-stats)
+
 <!--
 **frochaol/frochaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
